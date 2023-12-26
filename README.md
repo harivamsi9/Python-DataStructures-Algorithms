@@ -17,6 +17,7 @@ Explore Python implementations of essential data structures and algorithms. Enha
     - **Linked Lists**
        - Singly LL
        - Doubly LL
+       - Circular LL
     - **Tries**
     - **Binary Tree**
        - **Binary Search Tree**
