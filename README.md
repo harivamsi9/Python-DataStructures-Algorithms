@@ -28,7 +28,7 @@ Explore Python implementations of essential data structures and algorithms. Enha
     - **Heap**
         - Max Heap (Priority Queue)
         - Min Heap
-10. **Hash Tables**
+5. **Hash Tables**
 
 
 
