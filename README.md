@@ -13,7 +13,7 @@ Explore Python implementations of essential data structures and algorithms. Enha
 2. **Stacks**
 3. **Queues**
 4. **Graphs**
-  - **Trees**
+    - **Trees**
     - **Linked Lists**
        - Singly LL
        - Doubly LL
