@@ -13,22 +13,24 @@ Explore Python implementations of essential data structures and algorithms. Enha
 2. **Stacks**
 3. **Queues**
 4. **Graphs**
-    - **Trees**
-        - **Linked Lists**
-           - Singly LL
-           - Doubly LL
-           - Circular LL
-        - **Tries**
-        - **Binary Tree**
-           - **Binary Search Tree**
-              - **Balanced BST**
-                 - AVL Tree
-                 - Red Black Tree
-              - **Un-balanced BST**
-        - **Heap**
-            - Max Heap (Priority Queue)
-            - Min Heap
-5. **Hash Tables**
+    - **Undirected Graphs**
+    - **Directed Graphs**
+        - **Trees**
+            - **Linked Lists**
+               - Singly LL
+               - Doubly LL
+               - Circular LL
+            - **Tries**
+            - **Binary Tree**
+               - **Binary Search Tree**
+                  - **Balanced BST**
+                     - AVL Tree
+                     - Red Black Tree
+                  - **Un-balanced BST**
+            - **Heap**
+                - Max Heap (Priority Queue)
+                - Min Heap
+6. **Hash Tables**
 
 
 
