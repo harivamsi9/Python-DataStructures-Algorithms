@@ -1,6 +1,27 @@
 # Python-DS-Algorithms
 Explore Python implementations of essential data structures and algorithms. Enhance your coding skills with clear examples, visualizations, and problem-solving exercises. Perfect for beginners and experienced developers seeking proficiency in Python-based data manipulation and algorithmic problem-solving. 🐍✨
 
+## Data Structure
+
+1. **Arrays**
+2. **Stacks**
+3. **Queues**
+4. **Linked Lists**
+5. **Trees**
+6. **Tries**
+7. **Graphs**
+8. **Hash Tables**
+
+
+
+## Algorithms
+
+1. **Sorting**
+2. **Dynamic Programming**
+3. **BFS + DFS (Searching)**
+4. **Recursion**
+
+
 ## Key Features
 
 1. **Implementation of Data Structures:** Explore well-documented Python implementations of fundamental data structures such as arrays, linked lists, stacks, queues, trees, and graphs. Each implementation is accompanied by detailed explanations and usage examples.
