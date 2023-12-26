@@ -30,6 +30,10 @@ Explore Python implementations of essential data structures and algorithms. Enha
             - **Heap**
                 - Max Heap (Priority Queue)
                 - Min Heap
+    - **Weighted Graphs**
+    - **Unweighted Graphs**
+    - **Cyclic Graphs**
+    - **Acyclic Graphs**
 6. **Hash Tables**
 
 
